@@ -13,6 +13,7 @@
 		A5C3040D2CF5541300688A5C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5C3040B2CF5541300688A5C /* Main.storyboard */; };
 		A5C3040F2CF5541500688A5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5C3040E2CF5541500688A5C /* Assets.xcassets */; };
 		A5C304122CF5541500688A5C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5C304102CF5541500688A5C /* LaunchScreen.storyboard */; };
+		A5C3041A2CF595BF00688A5C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5C304192CF595BF00688A5C /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A5C3040E2CF5541500688A5C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5C304112CF5541500688A5C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A5C304132CF5541500688A5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5C304192CF595BF00688A5C /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A5C304052CF5541300688A5C /* AppDelegate.swift */,
 				A5C304072CF5541300688A5C /* SceneDelegate.swift */,
 				A5C304092CF5541300688A5C /* ViewController.swift */,
+				A5C304192CF595BF00688A5C /* Model.swift */,
 				A5C3040B2CF5541300688A5C /* Main.storyboard */,
 				A5C3040E2CF5541500688A5C /* Assets.xcassets */,
 				A5C304102CF5541500688A5C /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				A5C3040A2CF5541300688A5C /* ViewController.swift in Sources */,
 				A5C304062CF5541300688A5C /* AppDelegate.swift in Sources */,
 				A5C304082CF5541300688A5C /* SceneDelegate.swift in Sources */,
+				A5C3041A2CF595BF00688A5C /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
